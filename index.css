@@ -38,3 +38,15 @@ p {
     text-orientation: mixed;
     margin: 0;
 }
+
+@media (min-width: 1114px) {
+    h1 {
+        font-size: 160px;
+    }
+    article {
+        background-color: #ffc6c7;
+        max-width: 1114px;
+        margin: 0 auto;
+        margin-top: 3rem;
+    }
+}
