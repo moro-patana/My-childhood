@@ -1,0 +1,35 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    margin: 0;
+    padding: 1rem;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-family: "Palace Script MT";
+    font-size: 90px;
+    font-weight: 700;
+    color: cadetblue;
+    font-style: italic;
+}
+article {
+    background-color: aliceblue;
+    box-shadow: 0 0 10px 5px;
+    padding: 1rem;
+    border-radius: 18px;
+    margin-top: 3rem;
+}
+h2 {
+    font-family: "Lucida Handwriting";
+    margin: 0;
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+    padding: 2rem;
+}
+p {
+    font-family: cursive;
+    line-height: 27px;
+}
