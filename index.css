@@ -33,3 +33,8 @@ p {
     font-family: cursive;
     line-height: 27px;
 }
+.date {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin: 0;
+}
